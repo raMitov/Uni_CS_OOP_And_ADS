@@ -1,0 +1,6 @@
+/home/garjo/RiderProjects/ASD_UNI/ASD_UNI/bin/Debug/ASD_UNI.exe
+/home/garjo/RiderProjects/ASD_UNI/ASD_UNI/bin/Debug/ASD_UNI.pdb
+/home/garjo/RiderProjects/ASD_UNI/ASD_UNI/obj/Debug/ASD_UNI.csproj.AssemblyReference.cache
+/home/garjo/RiderProjects/ASD_UNI/ASD_UNI/obj/Debug/ASD_UNI.csproj.CoreCompileInputs.cache
+/home/garjo/RiderProjects/ASD_UNI/ASD_UNI/obj/Debug/ASD_UNI.exe
+/home/garjo/RiderProjects/ASD_UNI/ASD_UNI/obj/Debug/ASD_UNI.pdb
