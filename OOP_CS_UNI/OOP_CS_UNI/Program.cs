@@ -33,6 +33,9 @@ namespace OOP_CS_UNI
             getPrimeNums(n);
             Time t = new Time(12, 12, 9);
             t.getTime();
+            Book book = new Book("ivo", "ivo", "222", "12.50");
+            book.getInfo();
+            
         }
         static bool getYear (int year)
         {

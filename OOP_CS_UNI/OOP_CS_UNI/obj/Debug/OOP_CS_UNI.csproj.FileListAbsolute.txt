@@ -4,3 +4,9 @@
 /home/garjo/RiderProjects/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.csproj.CoreCompileInputs.cache
 /home/garjo/RiderProjects/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.exe
 /home/garjo/RiderProjects/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.pdb
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/OOP_CS_UNI/bin/Debug/OOP_CS_UNI.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/OOP_CS_UNI/bin/Debug/OOP_CS_UNI.pdb
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.csproj.AssemblyReference.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.csproj.CoreCompileInputs.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/OOP_CS_UNI/obj/Debug/OOP_CS_UNI.pdb
