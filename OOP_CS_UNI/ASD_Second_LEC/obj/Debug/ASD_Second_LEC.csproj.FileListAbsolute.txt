@@ -1,0 +1,6 @@
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Second_LEC/bin/Debug/ASD_Second_LEC.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Second_LEC/bin/Debug/ASD_Second_LEC.pdb
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Second_LEC/obj/Debug/ASD_Second_LEC.csproj.AssemblyReference.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Second_LEC/obj/Debug/ASD_Second_LEC.csproj.CoreCompileInputs.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Second_LEC/obj/Debug/ASD_Second_LEC.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Second_LEC/obj/Debug/ASD_Second_LEC.pdb

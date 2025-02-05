@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASD_UNI_LEC2", "ASD_UNI_LEC2\ASD_UNI_LEC2.csproj", "{DC81D553-4E8E-4489-B19B-EFA35DB52356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC81D553-4E8E-4489-B19B-EFA35DB52356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC81D553-4E8E-4489-B19B-EFA35DB52356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC81D553-4E8E-4489-B19B-EFA35DB52356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC81D553-4E8E-4489-B19B-EFA35DB52356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

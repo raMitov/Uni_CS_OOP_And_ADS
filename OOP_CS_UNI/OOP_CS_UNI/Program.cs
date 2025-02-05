@@ -1,7 +1,10 @@
 ﻿using System;
-
+//Im gonna be making some classes and accessing them in the same file on ths because I find it annoying
+//to make other solution files for small exercises.
 class Time
 {
+    //this is class Time from uni exercise on basic class logic
+    
     private int hour;
     private int minute;
     private int second;

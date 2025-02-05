@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{DCE19E31-336F-42A5-90C2-81F1EE20F278}</ProjectGuid>
+        <ProjectGuid>{50F80AE6-CCFC-4A51-B26B-3AD3603A6AD7}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>OOP_CS_UNI</RootNamespace>
-        <AssemblyName>OOP_CS_UNI</AssemblyName>
+        <RootNamespace>ASD_Second_LEC</RootNamespace>
+        <AssemblyName>ASD_Second_LEC</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,16 +40,12 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Book.cs" />
-        <Compile Include="Classroom.cs" />
-        <Compile Include="Discipline.cs" />
-        <Compile Include="Person.cs" />
+        <Compile Include="CustArrayList.cs" />
+        <Compile Include="CustLinkedList.cs" />
+        <Compile Include="CustQueue.cs" />
+        <Compile Include="CustStack.cs" />
         <Compile Include="Program.cs"/>
-        <Compile Include="Student.cs" />
-        <Compile Include="Teacher.cs" />
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Properties\" />
+        <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
