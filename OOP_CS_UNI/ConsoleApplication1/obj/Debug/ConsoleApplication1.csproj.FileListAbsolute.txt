@@ -1,0 +1,6 @@
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
