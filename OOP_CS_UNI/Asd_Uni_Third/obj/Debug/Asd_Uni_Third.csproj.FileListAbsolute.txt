@@ -1,0 +1,6 @@
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/Asd_Uni_Third/bin/Debug/Asd_Uni_Third.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/Asd_Uni_Third/bin/Debug/Asd_Uni_Third.pdb
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/Asd_Uni_Third/obj/Debug/Asd_Uni_Third.csproj.AssemblyReference.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/Asd_Uni_Third/obj/Debug/Asd_Uni_Third.csproj.CoreCompileInputs.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/Asd_Uni_Third/obj/Debug/Asd_Uni_Third.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/Asd_Uni_Third/obj/Debug/Asd_Uni_Third.pdb
