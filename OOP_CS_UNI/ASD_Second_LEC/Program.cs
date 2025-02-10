@@ -12,6 +12,15 @@ namespace ASD_Second_LEC
             factoriel(number);
             Console.WriteLine(fibonacci(number));
             Console.WriteLine(Convert10ToBase(16,1516));
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
+            MergeSort(numbers);
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
             
 
         }
@@ -69,6 +78,69 @@ namespace ASD_Second_LEC
             return i + 1;
         }
         //Mergesort at home!!
+        public static void MergeSort(int[] arr)
+        {
+            int length = arr.Length;
+            if (length <= 1) return;
+            int middle = length / 2;
+            int[] leftArray = new int[middle];
+            int[] rightArray = new int[length - middle];
+
+            int i = 0; //left
+            int j = 0; // right
+            for (; i < length; i++)
+            {
+                if (i < middle)
+                {
+                    leftArray[i] = arr[i];
+                }
+                else
+                {
+                    rightArray[j] = arr[i];
+                    j++;
+                }
+            }
+            MergeSort(leftArray);
+            MergeSort(rightArray);
+            merge(leftArray, rightArray, arr);
+        }
+
+        public static void merge(int[] leftArr, int[] rightArr, int[] arr)
+        {
+            int leftSize = arr.Length / 2;
+            int rightSize = arr.Length - leftSize;
+            int i = 0, l = 0, r = 0;
+            while (l < leftSize && r < rightSize)
+            {
+                if (leftArr[l] < rightArr[r])
+                {
+                    arr[i] = leftArr[l];
+                    i++;
+                    l++;
+                }
+                else
+                {
+                    arr[i] = rightArr[r];
+                    i++;
+                    r++;
+                }
+            }
+
+            while (l < leftSize)
+            {
+                arr[i] = leftArr[l];
+                i++;
+                l++;
+            }
+
+            while (r < rightSize)
+            {
+                arr[i] = rightArr[r];
+                i++;
+                r++;
+            }
+
+        }
         static string ToBinary(int n)
         {
             string binary = "";
