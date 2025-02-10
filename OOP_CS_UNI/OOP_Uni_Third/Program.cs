@@ -20,6 +20,12 @@ namespace OOP_Uni_Third
             Console.WriteLine("Average Grade: " + student.GetAvgGrade());
             Console.WriteLine(student);
             
+            Library library = new Library();
+            library.InitializeBooks();
+            Book bookie = new Book("Mobidick", "idk", "121212");
+            library.AddBook(bookie);
+            student.BorrowBook(library, "mobidick");
+            student.ReturnBook(library);
         }
         
     }

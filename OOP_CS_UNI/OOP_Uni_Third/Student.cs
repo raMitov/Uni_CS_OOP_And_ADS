@@ -8,7 +8,7 @@ namespace OOP_Uni_Third
     public class Student
     {
         private string name;
- 
+        public Book BookTaken { get; set; }
         public string Name
         {
             get { return name; }
@@ -68,6 +68,44 @@ namespace OOP_Uni_Third
         {
             return this.Grades.Values.Average();
         }
+
+        public void BorrowBook(Library library , string bookName)
+        {
+            bool bookFound = false;
+            Book bookToBorrow = null;
+            foreach (Book book in library.Books)
+            {
+                if (book.Name.Equals(bookName, StringComparison.OrdinalIgnoreCase))
+                {
+                    bookFound = true;
+                    bookToBorrow = book;
+                    break;
+                }
+            }
+
+            if (bookFound)
+            {
+                library.Books.Remove(bookToBorrow);
+                library.History.Add($"{name}-hasBorrowerd-{bookToBorrow.Name}");
+                Console.WriteLine($"{name} - has successfully borrowed {bookToBorrow.ToString()}");
+                BookTaken = bookToBorrow;
+            }
+
+            else
+            {
+                Console.WriteLine($"{name}, this book doesn't exist in the library.");
+            }
+        }
+
+        public void ReturnBook(Library library)
+        {
+            library.Books.Add(BookTaken);
+            library.History.Add($"{name}-hasReturned-{BookTaken.Name}");
+            Console.WriteLine($"{name} - has successfully returned {BookTaken.ToString()}");
+            BookTaken = null;
+            
+        }
+        
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -81,6 +119,7 @@ namespace OOP_Uni_Third
             }
             return sb.ToString();
         }
+        
     }
     
 }
