@@ -1,0 +1,6 @@
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Homework_Two/ASD_Homework_Two/bin/Debug/ASD_Homework_Two.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Homework_Two/ASD_Homework_Two/bin/Debug/ASD_Homework_Two.pdb
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Homework_Two/ASD_Homework_Two/obj/Debug/ASD_Homework_Two.csproj.AssemblyReference.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Homework_Two/ASD_Homework_Two/obj/Debug/ASD_Homework_Two.csproj.CoreCompileInputs.cache
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Homework_Two/ASD_Homework_Two/obj/Debug/ASD_Homework_Two.exe
+/home/garjo/Second Semester SE/UNI/OOP_CS_UNI/ASD_Homework_Two/ASD_Homework_Two/obj/Debug/ASD_Homework_Two.pdb
